@@ -40,12 +40,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harish102004&" alt="harish102004" /></p>
 
 
-MY PROJECT LINKS:
-<a href = "https://developer-hari-portfolio.netlify.app/">  PERSONAL   PORTFOLIO   WEBSITE</a>
-<a href = "https://eventz-website.netlify.app/">EVENT WEBSITE</a>
-<a href = "tastee-kitchen.netlify.app/">RESTAURANT WEBSITE</a>
-<a href = "hari-realestate.netlify.app/">REALESTATE WEBSITE</a>
-<a href = "veg-fruit.netlify.app/">VEGETABLE WEBSITE</a>
-<a href = "coffeevault.netlify.app/">COFFEEE WEBSITE</a>
-<a href = "groceryshop123.netlify.app/">GROCERY WEBSITE</a>
 
